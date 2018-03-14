@@ -31,6 +31,12 @@
 2. Edit site settings inside file of `_config.yml`
 3. Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_.
 4. Edit about yourself inside file of `about.md`
+   - To add your resume here, you can do the following steps to share your resume publish via google drive.
+      a. Upload your document to Google Drive.
+      b. Share it by right clicking on it to make public.
+      c. Open it with Google Docs.
+      d. Go to File>Publish to Web>embed
+      e. Grab the url link only from the code and replace in about.md file.
 
 ### How to Use?
 
